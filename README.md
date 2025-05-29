@@ -21,7 +21,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 📍 Basé en région parisienne  
 🔁 En évolution vers un rôle **Data Engineer** avec un socle solide en Data Science
-🧰 Outils : Python, SQL, Spark, Docker, Airflow, Snowflake, Git/GitHub, CI/CD, GitHub Actions
+🛠 Technologies : Python, SQL, Spark, Docker, Airflow, Snowflake, Git/GitHub, CI/CD, GitHub Actions
 
 ---
 
