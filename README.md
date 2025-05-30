@@ -6,7 +6,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 ---
 
-## 🧠 À propos de moi
+##  À propos de moi <img width="30" height="30" src="https://img.icons8.com/dusk/64/about-us-male.png" alt="about-us-male"/>
 
 🎓 Diplômé d’un Master 2 en Data Science (Université de Rouen, 2019), j’ai d’abord exercé en tant que **Data Scientist** où j’ai conçu et déployé des modèles prédictifs.  
 🎯 Progressivement, j’ai élargi mon périmètre pour répondre aux **enjeux d’industrialisation de la donnée**, de **mise en production** et de **gestion d’architectures data complexes**.
@@ -33,16 +33,16 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 ---
 
-##  Mes projets <img width="34" height="34" src="https://img.icons8.com/dusk/64/user-folder.png" alt="user-folder"/>
+##  Mes projets <img width="24" height="24" src="https://img.icons8.com/dusk/64/user-folder.png" alt="user-folder"/>
 
-### 👷 Data Engineering
+### Data Engineering <img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/engineering.png" alt="engineering"/>
 - [📂 Netflix ETL Python to SQL(https://github.com/NassimBahlouli/Netflix-ETL)  
   _Pipeline de traitement de données géolocalisées, architecture cloud scalable, ingestion & transformation automatisées._
 
 - [📈 E-commerce Streaming – Analyse en temps réel des ventes](https://github.com/tonpseudo/ecommerce-streaming)  
   _Architecture de streaming avec Kafka & Spark, visualisation en temps réel via dashboard._
 
-### 📊 Data Science
+### Data Science <img width="24" height="24" src="https://img.icons8.com/cotton/64/artificial-intelligence.png" alt="artificial-intelligence"/>
 - [🔍 Prédiction de churn client – Modélisation ML](https://github.com/tonpseudo/churn-prediction)  
   _Exploration, feature engineering, modèles supervisés, évaluation et déploiement léger._
 
