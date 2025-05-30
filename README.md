@@ -6,13 +6,13 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 ---
 
-##  À propos de moi <img width="24" height="24" src="https://img.icons8.com/ios/50/about-us-male.png" alt="about-us-male"/>
+##  À propos de moi <img width="24" height="24" src="https://img.icons8.com/pulsar-color/48/about-me-male.png" alt="about-me-male"/>
 
-<img width="24" height="24" src="https://img.icons8.com/wired/64/diploma.png" alt="diploma"/>Diplômé d’un Master 2 en Data Science (Université de Rouen, 2019), j’ai d’abord exercé en tant que **Data Scientist** où j’ai conçu et déployé des modèles prédictifs.  
+<img width="24" height="24" src="https://img.icons8.com/cotton/64/contract--v1.png" alt="contract--v1"/>  Diplômé d’un Master 2 en Data Science (Université de Rouen, 2019), j’ai d’abord exercé en tant que **Data Scientist** où j’ai conçu et déployé des modèles prédictifs.  
 
-<img width="24" height="24" src="https://img.icons8.com/color/48/bullish.png" alt="bullish"/> Progressivement, j’ai élargi mon périmètre pour répondre aux **enjeux d’industrialisation de la donnée**, de **mise en production** et de **gestion d’architectures data complexes**.
+<img width="24" height="24" src="https://img.icons8.com/color/48/bullish.png" alt="bullish"/>   Progressivement, j’ai élargi mon périmètre pour répondre aux **enjeux d’industrialisation de la donnée**, de **mise en production** et de **gestion d’architectures data complexes**.
 
- <img width="24" height="24" src="https://img.icons8.com/color/48/realtime-protection.png" alt="realtime-protection"/>Aujourd’hui, je me spécialise dans le **Data Engineering**, avec une expertise en :
+ <img width="24" height="24" src="https://img.icons8.com/color/48/realtime-protection.png" alt="realtime-protection"/>  Aujourd’hui, je me spécialise dans le **Data Engineering**, avec une expertise en :
 
 - Cloud & Infrastructure :    ![My Skills](https://skillicons.dev/icons?i=aws)
   
@@ -26,7 +26,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 📍 Basé en région parisienne  
 
-🔁 En évolution vers un rôle **Data Engineer** avec un socle solide en Data Science
+ <img width="24" height="24" src="https://img.icons8.com/color/48/bullish.png" alt="bullish"/>  En évolution vers un rôle **Data Engineer** avec un socle solide en Data Science
 
 🛠 Technologies : Python, SQL, Spark, Docker, Airflow, Snowflake, Git/GitHub, CI/CD, GitHub Actions  
 
@@ -66,10 +66,13 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 ---
 
-## 💼 CV & Contact
+## CV & Contact <img width="24" height="24" src="https://img.icons8.com/pulsar-color/48/parse-from-clipboard.png" alt="parse-from-clipboard"/>
+
 
 📄 [Voir mon CV (PDF)](./1-CV-et-presentation/CV.pdf)  
+
 ✉️ Contact : mednassimbahlouli@gmail.com  
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nassim-bahlouli-471b27b6/)
 ---
 
