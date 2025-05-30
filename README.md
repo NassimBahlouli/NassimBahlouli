@@ -1,4 +1,4 @@
-## Nassim Bahlouli- Portfolio Data Engineering & Data Science
+## Portfolio Data Engineering & Data Science  <img width="34" height="34" src="https://img.icons8.com/pulsar-color/48/portfolio.png" alt="portfolio"/>
 
 
 Bienvenue sur mon GitHub !  
@@ -6,27 +6,29 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 ---
 
-##  À propos de moi <img width="24" height="24" src="https://img.icons8.com/pulsar-color/48/about-me-male.png" alt="about-me-male"/>
+##  À propos de moi <img width="28" height="28" src="https://img.icons8.com/pulsar-color/48/about-me-male.png" alt="about-me-male"/>
 
-<img width="24" height="24" src="https://img.icons8.com/cotton/64/contract--v1.png" alt="contract--v1"/>  Diplômé d’un Master 2 en Data Science (Université de Rouen, 2019), j’ai d’abord exercé en tant que **Data Scientist** où j’ai conçu et déployé des modèles prédictifs.  
+ - Diplômé d’un Master 2 en Data Science (Université de Rouen, 2019) <img width="28" height="28" src="https://img.icons8.com/cotton/64/contract--v1.png" alt="contract--v1"/>   j’ai d’abord exercé en tant que **Data Scientist** où j’ai conçu et déployé des modèles prédictifs.  
 
-<img width="24" height="24" src="https://img.icons8.com/color/48/bullish.png" alt="bullish"/>   Progressivement, j’ai élargi mon périmètre pour répondre aux **enjeux d’industrialisation de la donnée**, de **mise en production** et de **gestion d’architectures data complexes**.
+ - Progressivement, j’ai élargi mon périmètre pour répondre aux **enjeux d’industrialisation de la donnée**, de **mise en production** et de **gestion d’architectures data complexes**  <img width="28" height="28" src="https://img.icons8.com/color/48/bullish.png" alt="bullish"/> 
 
- <img width="24" height="24" src="https://img.icons8.com/color/48/realtime-protection.png" alt="realtime-protection"/>  Aujourd’hui, je me spécialise dans le **Data Engineering**, avec une expertise en :
+ - Aujourd’hui, je me spécialise dans le **Data Engineering**, avec une expertise en :  ![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,kafka)
 
-- Cloud & Infrastructure :    ![My Skills](https://skillicons.dev/icons?i=aws)
+- Cloud & Infrastructure :   AWS
   
 - Traitement & Orchestration : Apache Airflow, Spark
  
-- Conteneurisation & CI/CD : Docker, GitHub Actions         ![My Skills](https://skillicons.dev/icons?i=docker,github)
+- Conteneurisation & CI/CD : Docker, GitHub Actions       
 
-- Développement de pipelines et ingestion de données temps réel Spark Streaming, Kafka        ![My Skills](https://skillicons.dev/icons?i=kafka)
+- Développement de pipelines et ingestion de données temps réel Spark Streaming, Kafka
+
+  
 
 🤝 Curieux, orienté impact, je travaille étroitement avec les équipes métiers, Data Science, BI et Produit pour faire de la donnée un véritable **levier de valeur**.
 
 📍 Basé en région parisienne  
 
- <img width="24" height="24" src="https://img.icons8.com/color/48/bullish.png" alt="bullish"/>  En évolution vers un rôle **Data Engineer** avec un socle solide en Data Science
+En évolution vers un rôle **Data Engineer** avec un socle solide en Data Science   <img width="28" height="28" src="https://img.icons8.com/color/48/bullish.png" alt="bullish"/>  
 
 🛠 Technologies : Python, SQL, Spark, Docker, Airflow, Snowflake, Git/GitHub, CI/CD, GitHub Actions  
 
@@ -35,7 +37,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 ---
 
 
-##  Mes projets <img width="24" height="24" src="https://img.icons8.com/dusk/64/user-folder.png" alt="user-folder"/>
+##  Mes projets <img width="28" height="28" src="https://img.icons8.com/dusk/64/user-folder.png" alt="user-folder"/>
 
 ### Data Engineering <img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/engineering.png" alt="engineering"/>
 
@@ -45,7 +47,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 - [ E-commerce Streaming – Analyse en temps réel des ventes](https://github.com/tonpseudo/ecommerce-streaming)  
   _Architecture de streaming avec Kafka & Spark, visualisation en temps réel via dashboard._
 
-### Data Science <img width="24" height="24" src="https://img.icons8.com/cotton/64/artificial-intelligence.png" alt="artificial-intelligence"/>
+### Data Science <img width="28" height="28" src="https://img.icons8.com/cotton/64/artificial-intelligence.png" alt="artificial-intelligence"/>
 - [Prédiction de churn client – Modélisation ML](https://github.com/tonpseudo/churn-prediction)  
   _Exploration, feature engineering, modèles supervisés, évaluation et déploiement léger._
 
@@ -54,13 +56,13 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 ---
 
-## 📜 Certifications
+## Certifications  <img width="28" height="28" src="https://img.icons8.com/cotton/64/contract--v1.png" alt="contract--v1"/>
 
-- 🎓 **Certification Data Engineer (RNCP38919)**  
+- **Certification Data Engineer (RNCP38919)**  
   Formé par [DataScientest](https://datascientest.com) avec la certification officielle de niveau 7, délivrée par **Mines ParisTech - PSL Executive Education**, blocs 2 et 3 validés.  
-  📅 Enregistrée au RNCP le 26 avril 2024 par France Compétences.
+  Enregistrée au RNCP le 26 avril 2024 par France Compétences.
 
-- ☁️ **Concevoir des solutions cloud sécurisées et robustes à l’aide des technologies AWS**  
+-  **Concevoir des solutions cloud sécurisées et robustes à l’aide des technologies AWS**  <img width="28" height="28" src="https://img.icons8.com/sci-fi/48/cloud.png" alt="cloud"/>
 
   **AWS Certified Solutions Architect Associate:** Certification éditeur enregistrée sous le **code RS5611**, reconnue par l’État.
 
