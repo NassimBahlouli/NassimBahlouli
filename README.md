@@ -14,14 +14,16 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 🔧 Aujourd’hui, je me spécialise dans le **Data Engineering**, avec une expertise en :
 - Cloud & Infrastructure :![My Skills](https://skillicons.dev/icons?i=aws)
 - Traitement & Orchestration : Apache Airflow, Spark
-- Conteneurisation & CI/CD : Docker ![My Skills](https://skillicons.dev/icons?i=docker), GitHub Actions ![My Skills](https://skillicons.dev/icons?i=github)
-- Développement de pipelines et ingestion de données temps réel ( Spark Streaming, Kafka [![My Skills](https://skillicons.dev/icons?i=kafka)])
+- Conteneurisation & CI/CD : Docker, GitHub Actions     ![My Skills](https://skillicons.dev/icons?i=docker,github)
+- Développement de pipelines et ingestion de données temps réel ( Spark Streaming, Kafka    [![My Skills](https://skillicons.dev/icons?i=kafka)])
 
 🤝 Curieux, orienté impact, je travaille étroitement avec les équipes métiers, Data Science, BI et Produit pour faire de la donnée un véritable **levier de valeur**.
 
 📍 Basé en région parisienne  
 🔁 En évolution vers un rôle **Data Engineer** avec un socle solide en Data Science
-🛠 Technologies : Python, SQL, Spark, Docker, Airflow, Snowflake, Git/GitHub, CI/CD, GitHub Actions ( ![My Skills](https://skillicons.dev/icons?i=py,mysql,mongodb,kubernetes,docker,git,github)
+🛠 Technologies : Python, SQL, Spark, Docker, Airflow, Snowflake, Git/GitHub, CI/CD, GitHub Actions  
+
+![My Skills](https://skillicons.dev/icons?i=py,mysql,mongodb,kubernetes,docker,git,github
 
 ---
 
