@@ -33,21 +33,22 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 ---
 
+
 ##  Mes projets <img width="24" height="24" src="https://img.icons8.com/dusk/64/user-folder.png" alt="user-folder"/>
 
 ### Data Engineering <img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/engineering.png" alt="engineering"/>
 
-- [Netflix ETL Python to SQL](https://github.com/NassimBahlouli/Netflix-ETL)  https://img.icons8.com/?size=30&id=retlnlU8BjQA&format=png&color=000000
-  _Pipeline de traitement de données géolocalisées, architecture cloud scalable, ingestion & transformation automatisées._
+- [Netflix ETL Python to SQL](https://github.com/NassimBahlouli/Netflix-ETL)  
+  _Pipeline de traitement de données (ETL) Netflix
 
-- [📈 E-commerce Streaming – Analyse en temps réel des ventes](https://github.com/tonpseudo/ecommerce-streaming)  
+- [ E-commerce Streaming – Analyse en temps réel des ventes](https://github.com/tonpseudo/ecommerce-streaming)  
   _Architecture de streaming avec Kafka & Spark, visualisation en temps réel via dashboard._
 
 ### Data Science <img width="24" height="24" src="https://img.icons8.com/cotton/64/artificial-intelligence.png" alt="artificial-intelligence"/>
-- [🔍 Prédiction de churn client – Modélisation ML](https://github.com/tonpseudo/churn-prediction)  
+- [Prédiction de churn client – Modélisation ML](https://github.com/tonpseudo/churn-prediction)  
   _Exploration, feature engineering, modèles supervisés, évaluation et déploiement léger._
 
-- [📂 Analyse exploratoire sur données publiques de santé](https://github.com/tonpseudo/eda-sante)  
+- [Analyse exploratoire sur données publiques de santé](https://github.com/tonpseudo/eda-sante)  
   _Nettoyage de données, visualisation, storytelling._
 
 ---
