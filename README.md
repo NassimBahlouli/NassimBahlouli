@@ -28,7 +28,8 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 ## 🚀 Projets
 
 ### 👷 Data Engineering
-- [🧩 MultiPath – Plateforme de recommandations locales](https://github.com/tonpseudo/multipath)  
+- [![image](https://github.com/user-attachments/assets/b4d6c81f-a778-4d0c-9e71-9e8648900331)
+ Netflix ETL Python to SQL(https://github.com/NassimBahlouli/Netflix-ETL)  
   _Pipeline de traitement de données géolocalisées, architecture cloud scalable, ingestion & transformation automatisées._
 
 - [📈 E-commerce Streaming – Analyse en temps réel des ventes](https://github.com/tonpseudo/ecommerce-streaming)  
