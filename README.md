@@ -60,7 +60,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 - **Certification Data Engineer (RNCP38919)**  
 
-  Formé par [DataScientest](https://datascientest.com) avec la certification officielle de niveau 7, délivrée par **Mines ParisTech - PSL Executive Education**, blocs 2 et 3 validés.  
+  Formé par [DataScientest](https://datascientest.com/formation-data-engineer) avec la certification officielle de niveau 7, délivrée par **Mines ParisTech - PSL Executive Education**, blocs 2 et 3 validés.  
   Enregistrée au RNCP le 26 avril 2024 par France Compétences.
 
 -   **AWS Certified Solutions Architect Associate:** Certification éditeur enregistrée sous le **code RS5611**, reconnue par l’État. ![My Skills](https://skillicons.dev/icons?i=aws)
