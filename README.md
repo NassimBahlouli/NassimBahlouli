@@ -6,12 +6,13 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 ---
 
-##  À propos de moi <img width="30" height="30" src="https://img.icons8.com/dusk/64/about-us-male.png" alt="about-us-male"/>
+##  À propos de moi <img width="24" height="24" src="https://img.icons8.com/ios/50/about-us-male.png" alt="about-us-male"/>
 
-🎓 Diplômé d’un Master 2 en Data Science (Université de Rouen, 2019), j’ai d’abord exercé en tant que **Data Scientist** où j’ai conçu et déployé des modèles prédictifs.  
-🎯 Progressivement, j’ai élargi mon périmètre pour répondre aux **enjeux d’industrialisation de la donnée**, de **mise en production** et de **gestion d’architectures data complexes**.
+<img width="24" height="24" src="https://img.icons8.com/wired/64/diploma.png" alt="diploma"/>Diplômé d’un Master 2 en Data Science (Université de Rouen, 2019), j’ai d’abord exercé en tant que **Data Scientist** où j’ai conçu et déployé des modèles prédictifs.  
 
-🔧 Aujourd’hui, je me spécialise dans le **Data Engineering**, avec une expertise en :
+<img width="24" height="24" src="https://img.icons8.com/color/48/bullish.png" alt="bullish"/> Progressivement, j’ai élargi mon périmètre pour répondre aux **enjeux d’industrialisation de la donnée**, de **mise en production** et de **gestion d’architectures data complexes**.
+
+ <img width="24" height="24" src="https://img.icons8.com/color/48/realtime-protection.png" alt="realtime-protection"/>Aujourd’hui, je me spécialise dans le **Data Engineering**, avec une expertise en :
 
 - Cloud & Infrastructure :    ![My Skills](https://skillicons.dev/icons?i=aws)
   
