@@ -33,7 +33,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 ---
 
-## 🚀 <img width="64" height="64" src="https://img.icons8.com/dusk/64/user-folder.png" alt="user-folder"/>Projets
+##  Mes projets <img width="34" height="34" src="https://img.icons8.com/dusk/64/user-folder.png" alt="user-folder"/>
 
 ### 👷 Data Engineering
 - [📂 Netflix ETL Python to SQL(https://github.com/NassimBahlouli/Netflix-ETL)  
