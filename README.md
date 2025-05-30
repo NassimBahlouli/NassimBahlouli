@@ -12,7 +12,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 🎯 Progressivement, j’ai élargi mon périmètre pour répondre aux **enjeux d’industrialisation de la donnée**, de **mise en production** et de **gestion d’architectures data complexes**.
 
 🔧 Aujourd’hui, je me spécialise dans le **Data Engineering**, avec une expertise en :
-- Cloud & Infrastructure :(https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+- Cloud & Infrastructure :[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 - Traitement & Orchestration : Apache Airflow, Spark
 - Conteneurisation & CI/CD : Docker, GitHub Actions
 - Développement de pipelines et ingestion de données temps réel ( Spark Streaming, Kafka)
@@ -59,8 +59,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 📄 [Voir mon CV (PDF)](./1-CV-et-presentation/CV.pdf)  
 ✉️ Contact : mednassimbahlouli@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nassim-bahlouli-471b27b6/)
-
+🔗[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nassim-bahlouli-471b27b6/)
 ---
 
 Merci pour votre visite ! 🚀  
