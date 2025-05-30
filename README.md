@@ -31,7 +31,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
  🛠 Technologies : Python, SQL, Spark, Docker, Airflow, Snowflake, Git/GitHub, CI/CD, GitHub Actions  
 
-![My Skills](https://skillicons.dev/icons?i=py,postegres,mongodb,kubernetes,docker,git,github)
+![My Skills](https://skillicons.dev/icons?i=py,postegres,mongodb,kubernetes,docker,git,github)  ![My Skills](https://skillicons.dev/icons?i=postegres)
 
 ---
 
