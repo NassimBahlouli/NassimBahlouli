@@ -59,7 +59,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 📄 [Voir mon CV (PDF)](./1-CV-et-presentation/CV.pdf)  
 ✉️ Contact : mednassimbahlouli@gmail.com  
-🔗[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nassim-bahlouli-471b27b6/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nassim-bahlouli-471b27b6/)
 ---
 
 Merci pour votre visite ! 🚀  
