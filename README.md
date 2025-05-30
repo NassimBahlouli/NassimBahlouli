@@ -12,7 +12,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 🎯 Progressivement, j’ai élargi mon périmètre pour répondre aux **enjeux d’industrialisation de la donnée**, de **mise en production** et de **gestion d’architectures data complexes**.
 
 🔧 Aujourd’hui, je me spécialise dans le **Data Engineering**, avec une expertise en :
-- Cloud & Infrastructure :[![My Skills](https://skillicons.dev/icons?i=aws)]
+- Cloud & Infrastructure :![My Skills](https://skillicons.dev/icons?i=aws)
 - Traitement & Orchestration : Apache Airflow, Spark
 - Conteneurisation & CI/CD : Docker [![My Skills](https://skillicons.dev/icons?i=docker)], GitHub Actions [![My Skills](https://skillicons.dev/icons?i=github)]
 - Développement de pipelines et ingestion de données temps réel ( Spark Streaming, Kafka [![My Skills](https://skillicons.dev/icons?i=kafka)])
