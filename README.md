@@ -63,7 +63,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
   Formé par [DataScientest](https://datascientest.com) avec la certification officielle de niveau 7, délivrée par **Mines ParisTech - PSL Executive Education**, blocs 2 et 3 validés.  
   Enregistrée au RNCP le 26 avril 2024 par France Compétences.
 
--   **AWS Certified Solutions Architect Associate:** Certification éditeur enregistrée sous le **code RS5611**, reconnue par l’État. <img width="28" height="28" src="https://img.icons8.com/sci-fi/48/cloud.png" alt="cloud"/>
+-   **AWS Certified Solutions Architect Associate:** Certification éditeur enregistrée sous le **code RS5611**, reconnue par l’État. ![My Skills](https://skillicons.dev/icons?i=aws)
 
  
 
@@ -78,6 +78,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nassim-bahlouli-471b27b6/)
 ---
+
 
 Merci pour votre visite ! 🚀  
 
