@@ -69,13 +69,14 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 
 ---
 
-## CV & Contact <img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/parse-from-clipboard.png" alt="parse-from-clipboard"/>
+## CV & Contact <img width="34" height="34" src="https://img.icons8.com/pulsar-color/48/parse-from-clipboard.png" alt="parse-from-clipboard"/>
 
 
-<img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/parse-from-clipboard.png" alt="parse-from-clipboard"/>(./1-CV-et-presentation/CV.pdf)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nassim-bahlouli-471b27b6/)
+- [Mon CV](./1-CV-et-presentation/CV.pdf)   <img width="34" height="34" src="https://img.icons8.com/pulsar-color/48/parse-from-clipboard.png" alt="parse-from-clipboard"/>
 
+- Mon LinkedIn [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nassim-bahlouli-471b27b6/)
 
- <img width="30" height="30" src="https://img.icons8.com/plasticine/100/contact-card.png" alt="contact-card"/>Contact : mednassimbahlouli@gmail.com  
+- Mon email : mednassimbahlouli@gmail.com  <img width="34" height="34" src="https://img.icons8.com/plasticine/100/contact-card.png" alt="contact-card"/>
 
 
 ---
