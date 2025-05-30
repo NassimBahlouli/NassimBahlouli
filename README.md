@@ -28,7 +28,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 ## 🚀 Projets
 
 ### 👷 Data Engineering
-- [![image](https://github.com/user-attachments/assets/b9db1be5-39dd-4f03-b501-fa15eed003d5) Netflix ETL Python to SQL(https://github.com/NassimBahlouli/Netflix-ETL)  
+- [📂 Netflix ETL Python to SQL(https://github.com/NassimBahlouli/Netflix-ETL)  
   _Pipeline de traitement de données géolocalisées, architecture cloud scalable, ingestion & transformation automatisées._
 
 - [📈 E-commerce Streaming – Analyse en temps réel des ventes](https://github.com/tonpseudo/ecommerce-streaming)  
