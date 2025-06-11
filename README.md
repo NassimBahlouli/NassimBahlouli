@@ -50,7 +50,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 - [Prédiction de churn client – Modélisation ML](https://github.com/tonpseudo/churn-prediction)  
   _Exploration, feature engineering, modèles supervisés, évaluation et déploiement léger._
 
-- [Analyse exploratoire sur données publiques de santé](https://github.com/tonpseudo/eda-sante)  
+- [Heart Deases(https://github.com/tonpseudo/eda-sante)  
   _Nettoyage de données, visualisation, storytelling._
 
 ---
