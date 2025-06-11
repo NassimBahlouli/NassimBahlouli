@@ -43,14 +43,14 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 - [Netflix ETL Python to SQL](https://github.com/NassimBahlouli/Netflix-ETL)  
   _Pipeline de traitement de données (ETL) Netflix
 
-- [ E-commerce Streaming – Analyse en temps réel des ventes](https://github.com/tonpseudo/ecommerce-streaming)  
+- [ E-commerce Streaming – Analyse en temps réel des ventes ( en cours )](https://github.com/tonpseudo/ecommerce-streaming)  
   _Architecture de streaming avec Kafka & Spark, visualisation en temps réel via dashboard._
 
 ### Data Science <img width="28" height="28" src="https://img.icons8.com/cotton/64/artificial-intelligence.png" alt="artificial-intelligence"/>
-- [Prédiction de churn client – Modélisation ML](https://github.com/tonpseudo/churn-prediction)  
+- [Prédiction de churn client – Modélisation ML ( en cours )](https://github.com/tonpseudo/churn-prediction)  
   _Exploration, feature engineering, modèles supervisés, évaluation et déploiement léger._
 
-- [Heart Deases(https://github.com/tonpseudo/eda-sante)  
+- [Heart Deases ( en cours )](https://github.com/tonpseudo/eda-sante)  
   _Nettoyage de données, visualisation, storytelling._
 
 ---
