@@ -72,7 +72,7 @@ Je suis un **Data Professional** passionné par la conception de systèmes **sca
 ## CV & Contact <img width="34" height="34" src="https://img.icons8.com/pulsar-color/48/parse-from-clipboard.png" alt="parse-from-clipboard"/>
 
 
-- [Mon CV](./nassimbahlouli_CV.pdf)   <img width="34" height="34" src="https://img.icons8.com/pulsar-color/48/parse-from-clipboard.png" alt="parse-from-clipboard"/>
+- [Mon CV](./CV_nassimbahlouli.pdf)   <img width="34" height="34" src="https://img.icons8.com/pulsar-color/48/parse-from-clipboard.png" alt="parse-from-clipboard"/>
 
 - Mon LinkedIn [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nassim-bahlouli-471b27b6/)
 
